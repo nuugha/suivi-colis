@@ -1,0 +1,6 @@
+﻿Numéro;Date;Expéditeur;Destinataire;Statut;Lieu actuel
+COL001;2024-01-15;Jean Dupont;Marie Martin;En transit;Casablanca
+COL002;2024-01-16;Pierre Durand;Sophie Petit;Livré;Rabat
+COL003;2024-01-17;Ahmed Alami;Fatima Benani;En attente;Marrakech
+COL004;2024-01-18;Karim Idrissi;Leila Tazi;En transit;Tanger
+COL005;2024-01-19;Hassan Benjelloun;Amina Alaoui;Livré;Fès
